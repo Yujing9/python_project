@@ -1,8 +1,5 @@
 # Coronavirus Web Scraper & Voice Assistant
 
-The project is taught by Tim
-
-link :https://www.youtube.com/watch?v=gJY8D468Jv0
 
 ## Web Scraper
 
